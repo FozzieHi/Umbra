@@ -1,4 +1,3 @@
-const credentials = require('./credentials.json');
 const keybase = require('keybase-bot');
 const Logger = require('./utils/Logger.js');
 
