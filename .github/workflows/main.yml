@@ -15,7 +15,7 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node_version }}
-      - name: Connect to Discord
+      - name: Connect to Keybase
         run: |
           npm ci
           node src/ci.js ${{ secrets.TOKEN }}
