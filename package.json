@@ -1,0 +1,9 @@
+{
+  "name": "umbra",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {
+    "keybase-bot": "^3.3.3",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,12 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Packages
+node_modules/
+
+# Credentials
+src/credentials.json
+
+# Umbra Logs
+logs/
